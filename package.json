@@ -1,0 +1,26 @@
+{
+  "name": "my-cuurency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "run npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raisahab794/My-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ayush Rai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Raisahab794/My-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Raisahab794/My-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
